@@ -1,0 +1,11 @@
+config:
+  organization:
+    organizationLevelList:
+      - key: value0
+        organizationLevel: { level: 1, key: group ,description: 總集團 }
+      - key: value1
+        organizationLevel: { level: 2, key: company ,description: 分公司 }
+      - key: value2
+        organizationLevel: { level: 3, key: organization  ,description: 組織 }
+      - key: value3
+        organizationLevel: { level: 4, key: department  ,description: 部門 }
